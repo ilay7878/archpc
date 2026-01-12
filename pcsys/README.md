@@ -1,2 +1,3 @@
 # pcsys 
-(nY or nZ or X) or (nZ or Y)
+
+## [ГОСТ](/gost-r-iso-mek-27001-2021.pdf)
