@@ -1,4 +1,3 @@
-> 🥷🏿💀☠️:
 Testing White box
 Testing Grey box
 Testing Black box
